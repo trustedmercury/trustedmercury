@@ -22,11 +22,11 @@ I'm a 15 y/o student & full-stack web developer experienced in Python, TypeScrip
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   4 hrs 56 mins   ██████████████████████▒░░   89.67 %
-Other        9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 %
-TSConfig     7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
-SQL          5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
-JSON         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
+TypeScript   4 hrs 56 mins   ███████████████████▒░░░░░   77.67 %
+Python       47 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.34 %
+Other        9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
+TSConfig     7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
+SQL          5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
 ```
 
 <!--END_SECTION:waka-->
