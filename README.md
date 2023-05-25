@@ -22,11 +22,11 @@ I'm a 15 y/o student & full-stack web developer experienced in Python, TypeScrip
 <!--START_SECTION:waka-->
 
 ```text
-Python       2 hrs 34 mins   ███████████░░░░░░░░░░░░░░   43.62 %
-C++          1 hr 40 mins    ███████░░░░░░░░░░░░░░░░░░   28.48 %
-Nim          1 hr 3 mins     ████▒░░░░░░░░░░░░░░░░░░░░   17.96 %
-CSV          23 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.67 %
-Rust         8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 %
+Python       1 hr 47 mins    █████████░░░░░░░░░░░░░░░░   35.40 %
+C++          1 hr 40 mins    ████████▒░░░░░░░░░░░░░░░░   33.29 %
+Nim          1 hr 3 mins     █████▒░░░░░░░░░░░░░░░░░░░   21.00 %
+CSV          19 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.55 %
+Rust         8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.95 %
 ```
 
 <!--END_SECTION:waka-->
