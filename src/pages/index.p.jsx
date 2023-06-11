@@ -48,7 +48,7 @@ export default function Home(props) {
                 animate={{ y: 0, opacity: 1 }}
                 transition={{ duration: 0.2, delay: 0.1 }}
               >
-                I'm a 15 year old student and full-stack developer. I've spent over 3 years learning
+                I'm a old student and full-stack developer and I've spent over 4 years learning
                 various programming languages and practicing new technology.
               </motion.p>
               <motion.p
